@@ -1,7 +1,7 @@
 | Company                     | Careers Site                                                                                                                                                   |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Google                      | [https://www.google.com/about/careers/applications/jobs/results?location=India](https://www.google.com/about/careers/applications/jobs/results?location=India&target_level=EARLY&employment_type=FULL_TIME&degree=BACHELORS&skills=Computer%20programming&sort_by=date) |
-| Microsoft                   | [https://careers.microsoft.com/v2/global/en/locations/india.html](https://careers.microsoft.com/v2/global/en/locations/india.html)                             |
+| Microsoft                   | [https://careers.microsoft.com/v2/global/en/locations/india.html](https://jobs.careers.microsoft.com/global/en/search?q=software%20engineer&lc=India&p=Software%20Engineering&rt=Individual%20Contributor&et=Full-Time&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true)                             |
 | Amazon                      | [https://www.amazon.jobs/en/locations/india](https://www.amazon.jobs/en/locations/india)                                                                       |
 | Apple                       | [https://www.apple.com/careers/in/](https://www.apple.com/careers/in/)                                                                                         |
 | Meta (Facebook)             | [https://www.metacareers.com/jobs](https://www.metacareers.com/jobs)                                                                                           |
